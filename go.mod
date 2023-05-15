@@ -50,7 +50,7 @@ require (
 	github.com/kubicorn/kubicorn v0.0.0-20180829191017-06f6bce92acc
 	github.com/lithammer/dedent v1.1.0
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.1
-	github.com/onsi/ginkgo/v2 v2.9.4
+	github.com/onsi/ginkgo/v2 v2.9.5
 	github.com/onsi/gomega v1.27.6
 	github.com/orcaman/concurrent-map v1.0.0
 	github.com/otiai10/copy v1.9.0
@@ -73,7 +73,7 @@ require (
 	golang.org/x/crypto v0.8.0
 	golang.org/x/oauth2 v0.7.0
 	golang.org/x/sync v0.2.0
-	golang.org/x/tools v0.8.0
+	golang.org/x/tools v0.9.1
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.11.2
 	k8s.io/api v0.26.0
